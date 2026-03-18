@@ -168,7 +168,9 @@ Top-performing stores:
 
 ## 📈 Dashboard
 🚀 End-to-end analytics project based on real business data
+![Dashboard Preview](dashboard.png)
 [[Tableau Public link](https://public.tableau.com/views/mk_analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+
 
 ---
 
