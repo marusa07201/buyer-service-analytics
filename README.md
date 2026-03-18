@@ -1,3 +1,33 @@
+# 🛍️ Buyer Service — Business Analytics
+
+## 📌 About the Project
+
+This project analyzes real-world data from a buyer service business (2020–2026).
+
+It covers the full data workflow:
+- ETL (data cleaning & transformation)
+- Data modeling
+- SQL analysis
+- Interactive dashboard development
+
+**Business context:**  
+The service helps customers in Ukraine purchase goods from international online stores (US, Europe, UK), providing access to better pricing and exclusive deals.
+
+---
+
+## 🛠️ Tech Stack
+
+- Python (pandas) — ETL & data preparation  
+- PostgreSQL + DBeaver — data storage & querying  
+- Tableau Public — data visualization  
+
+---
+
+## 📂 Project Structure
+├── buyer_etl.ipynb
+├── mk_ddl.sql
+├── mk_analysis.sql
+└── README.md
 
 ---
 
@@ -137,7 +167,7 @@ Top-performing stores:
 ---
 
 ## 📈 Dashboard
-
+🚀 End-to-end analytics project based on real business data
 [[Tableau Public link](https://public.tableau.com/views/mk_analysis/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
 
 ---
